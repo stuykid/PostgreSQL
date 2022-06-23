@@ -1,4 +1,4 @@
-# PostgreSQL
+# PostgreSQL Automation
 Using Python to create and query a postgreSQL database
 
 # BEFORE
